@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://cocinerosargentinos.com/content/recipes/500x500/guiso-de-mondongo-criollo.6200.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #55f;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 5px solid #f77;
+}
+
+#spanId {
+    font-size: 18px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
